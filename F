@@ -1,0 +1,74 @@
+00:17:01  service started (Android 11, HUAWEI CTR-LX2)
+00:17:01  microphone open, listening (16 kHz mono)
+00:17:14  event: screen turned OFF
+00:17:31  alive | chunks=299 | all-zero chunks=1 | loudest=2062 | read problems=0
+00:18:01  alive | chunks=301 | all-zero chunks=0 | loudest=107 | read problems=0
+00:18:31  alive | chunks=300 | all-zero chunks=0 | loudest=97 | read problems=0
+00:19:01  alive | chunks=300 | all-zero chunks=0 | loudest=124 | read problems=0
+00:19:31  alive | chunks=300 | all-zero chunks=0 | loudest=92 | read problems=0
+00:20:01  alive | chunks=300 | all-zero chunks=0 | loudest=113 | read problems=0
+00:20:31  alive | chunks=301 | all-zero chunks=0 | loudest=161 | read problems=0
+00:21:01  alive | chunks=301 | all-zero chunks=0 | loudest=110 | read problems=0
+00:21:32  alive | chunks=301 | all-zero chunks=0 | loudest=129 | read problems=0
+00:22:02  alive | chunks=300 | all-zero chunks=0 | loudest=107 | read problems=0
+00:22:32  alive | chunks=301 | all-zero chunks=0 | loudest=76 | read problems=0
+00:23:02  alive | chunks=300 | all-zero chunks=0 | loudest=77 | read problems=0
+00:23:32  alive | chunks=300 | all-zero chunks=0 | loudest=116 | read problems=0
+00:24:02  alive | chunks=301 | all-zero chunks=0 | loudest=120 | read problems=0
+00:24:32  alive | chunks=301 | all-zero chunks=0 | loudest=97 | read problems=0
+00:25:02  alive | chunks=300 | all-zero chunks=0 | loudest=146 | read problems=0
+00:25:32  alive | chunks=300 | all-zero chunks=0 | loudest=106 | read problems=0
+00:26:02  alive | chunks=300 | all-zero chunks=0 | loudest=108 | read problems=0
+00:26:32  alive | chunks=300 | all-zero chunks=0 | loudest=133 | read problems=0
+00:27:02  alive | chunks=301 | all-zero chunks=0 | loudest=121 | read problems=0
+00:27:32  alive | chunks=300 | all-zero chunks=0 | loudest=125 | read problems=0
+00:28:02  alive | chunks=301 | all-zero chunks=0 | loudest=137 | read problems=0
+00:28:32  alive | chunks=300 | all-zero chunks=0 | loudest=137 | read problems=0
+00:29:02  alive | chunks=300 | all-zero chunks=0 | loudest=85 | read problems=0
+00:29:32  alive | chunks=301 | all-zero chunks=0 | loudest=278 | read problems=0
+00:30:02  alive | chunks=300 | all-zero chunks=0 | loudest=16996 | read problems=0
+00:30:32  alive | chunks=301 | all-zero chunks=0 | loudest=79 | read problems=0
+00:31:02  alive | chunks=300 | all-zero chunks=0 | loudest=81 | read problems=0
+00:31:32  alive | chunks=301 | all-zero chunks=0 | loudest=65 | read problems=0
+00:32:02  alive | chunks=301 | all-zero chunks=0 | loudest=75 | read problems=0
+00:32:32  alive | chunks=300 | all-zero chunks=0 | loudest=126 | read problems=0
+00:33:02  alive | chunks=300 | all-zero chunks=0 | loudest=301 | read problems=0
+00:33:33  alive | chunks=301 | all-zero chunks=0 | loudest=992 | read problems=0
+00:34:03  alive | chunks=301 | all-zero chunks=0 | loudest=44 | read problems=0
+00:34:33  alive | chunks=300 | all-zero chunks=0 | loudest=55 | read problems=0
+00:35:03  alive | chunks=300 | all-zero chunks=0 | loudest=48 | read problems=0
+00:35:33  alive | chunks=301 | all-zero chunks=0 | loudest=58 | read problems=0
+00:36:03  alive | chunks=300 | all-zero chunks=0 | loudest=57 | read problems=0
+00:36:33  alive | chunks=301 | all-zero chunks=0 | loudest=43 | read problems=0
+00:37:03  alive | chunks=300 | all-zero chunks=0 | loudest=52 | read problems=0
+00:37:33  alive | chunks=300 | all-zero chunks=0 | loudest=42 | read problems=0
+00:38:03  alive | chunks=301 | all-zero chunks=0 | loudest=40 | read problems=0
+00:38:33  alive | chunks=300 | all-zero chunks=0 | loudest=126 | read problems=0
+00:39:03  alive | chunks=301 | all-zero chunks=0 | loudest=102 | read problems=0
+00:39:33  alive | chunks=300 | all-zero chunks=0 | loudest=297 | read problems=0
+00:40:03  alive | chunks=301 | all-zero chunks=0 | loudest=1522 | read problems=0
+00:40:33  alive | chunks=301 | all-zero chunks=0 | loudest=208 | read problems=0
+00:41:03  alive | chunks=301 | all-zero chunks=0 | loudest=209 | read problems=0
+00:41:33  alive | chunks=300 | all-zero chunks=0 | loudest=245 | read problems=0
+00:42:03  alive | chunks=300 | all-zero chunks=0 | loudest=23354 | read problems=0
+00:42:33  alive | chunks=301 | all-zero chunks=0 | loudest=272 | read problems=0
+00:43:04  alive | chunks=301 | all-zero chunks=0 | loudest=200 | read problems=0
+00:43:34  alive | chunks=300 | all-zero chunks=0 | loudest=71 | read problems=0
+00:44:04  alive | chunks=300 | all-zero chunks=0 | loudest=48 | read problems=0
+00:44:34  alive | chunks=300 | all-zero chunks=0 | loudest=4282 | read problems=0
+00:45:04  alive | chunks=301 | all-zero chunks=0 | loudest=757 | read problems=0
+00:45:34  alive | chunks=300 | all-zero chunks=0 | loudest=1193 | read problems=0
+00:46:04  alive | chunks=300 | all-zero chunks=0 | loudest=108 | read problems=0
+00:46:34  alive | chunks=301 | all-zero chunks=0 | loudest=58 | read problems=0
+00:47:04  alive | chunks=300 | all-zero chunks=0 | loudest=1985 | read problems=0
+00:47:34  alive | chunks=300 | all-zero chunks=0 | loudest=548 | read problems=0
+00:48:04  alive | chunks=300 | all-zero chunks=0 | loudest=1232 | read problems=0
+00:48:34  alive | chunks=300 | all-zero chunks=0 | loudest=118 | read problems=0
+00:49:04  alive | chunks=301 | all-zero chunks=0 | loudest=663 | read problems=0
+00:49:34  alive | chunks=301 | all-zero chunks=0 | loudest=58 | read problems=0
+00:50:04  alive | chunks=301 | all-zero chunks=0 | loudest=344 | read problems=0
+00:50:34  alive | chunks=300 | all-zero chunks=0 | loudest=75 | read problems=0
+00:51:04  alive | chunks=301 | all-zero chunks=0 | loudest=17388 | read problems=0
+00:51:09  event: screen turned ON
+00:51:11  event: phone UNLOCKED
+00:51:24  service stopped (Android called onDestroy)
